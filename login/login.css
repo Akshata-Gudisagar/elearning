@@ -1,0 +1,24 @@
+
+#password{
+  width: 250px;
+  height: 35px;
+}
+#email{
+  width: 250px;
+  height: 35px;
+  }
+#email-error{
+  height: 25px;
+  font-size: 12px;
+  margin-right: 70px;
+  color: red;
+  font-weight: 600;
+}
+
+#pass-error{
+  height: 25px;
+  font-size: 12px;
+  margin-right: 130px;
+  color: red;
+  font-weight: 600;
+}
